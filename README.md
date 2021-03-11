@@ -1,5 +1,7 @@
 # TP
 
+Groupe: Gurvan TOUZÉ, Quentin DIJOUX
+
 ## Run test
 
 ```sh
