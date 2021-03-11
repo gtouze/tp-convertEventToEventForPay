@@ -1,3 +1,4 @@
+// The rest is similar to the comments I've made for the other repo...
 const { convertEventToEventForPay } = require("../services/convertEventToEventForPay")
 const { Event } = require("../objects/event")
 
